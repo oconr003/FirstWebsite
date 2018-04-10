@@ -33,6 +33,29 @@ p {
 	text-align: center;
 }
 
+#upcomingProjects {
+	list-style-position: inside;
+	
+}
+
+#linkedIn {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+#Jake {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;	
+}
+
+tr, td {
+    border-bottom: 1px solid #ddd;
+}
+
 #aboutMeP1 {
 	color: green;
 	text-align: center;
